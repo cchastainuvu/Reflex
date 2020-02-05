@@ -1,0 +1,547 @@
+fileFormatVersion: 2
+guid: c9ceabd0cdfae6a4d8e237c467023ea4
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: box_01_geo
+    100002: box_02_geo
+    100004: box_03_geo
+    100006: box_04_geo
+    100008: box_05_geo
+    100010: box_06_geo
+    100012: box_07_geo
+    100014: boxes_geo_grp
+    100016: crate_01_geo
+    100018: crate_02_geo
+    100020: crate_03_geo
+    100022: crate_04_geo
+    100024: crate_05_geo
+    100026: crate_06_geo
+    100028: crate_07_geo
+    100030: crate_08_geo
+    100032: crate_09_geo
+    100034: crate_10_geo
+    100036: crate_11_geo
+    100038: crate_12_geo
+    100040: crate_13_geo
+    100042: crate_14_geo
+    100044: crate_15_geo
+    100046: crate_16_geo
+    100048: crate_17_geo
+    100050: crate_18_geo
+    100052: crate_19_geo
+    100054: crate_20_geo
+    100056: crates_geo_grp
+    100058: grass_patch_geo
+    100060: ground_geo
+    100062: //RootNode
+    100064: main_level_geo_grp
+    100066: outcrop_geo
+    100068: pile_01_geo
+    100070: pile_02_geo
+    100072: pile_03_geo
+    100074: pile_04_geo
+    100076: pile_05_geo
+    100078: pile_06_geo
+    100080: pile_07_geo
+    100082: pile_08_geo
+    100084: pile_09_geo
+    100086: pile_10_geo
+    100088: piles_geo_grp
+    100090: rocks_01_geo
+    100092: rocks_02_geo
+    100094: rocks_03_geo
+    100096: rocks_04_geo
+    100098: rocks_05_geo
+    100100: rocks_06_geo
+    100102: rocks_geo_grp
+    100104: scaffolding_geo
+    100106: spaceship_geo
+    100108: stair_railing_geo
+    100110: tree_01_geo
+    100112: tree_02_geo
+    100114: tree_03_geo
+    100116: tree_04_geo
+    100118: tree_05_geo
+    100120: tree_06_geo
+    100122: tree_07_geo
+    100124: tree_08_geo
+    100126: tree_09_geo
+    100128: tree_10_geo
+    100130: tree_11_geo
+    100132: tree_top_geo
+    100134: tree_top_geo 1
+    100136: tree_top_geo 10
+    100138: tree_top_geo 2
+    100140: tree_top_geo 3
+    100142: tree_top_geo 4
+    100144: tree_top_geo 5
+    100146: tree_top_geo 6
+    100148: tree_top_geo 7
+    100150: tree_top_geo 8
+    100152: tree_top_geo 9
+    100154: tree_trunk_geo
+    100156: tree_trunk_geo 1
+    100158: tree_trunk_geo 10
+    100160: tree_trunk_geo 2
+    100162: tree_trunk_geo 3
+    100164: tree_trunk_geo 4
+    100166: tree_trunk_geo 5
+    100168: tree_trunk_geo 6
+    100170: tree_trunk_geo 7
+    100172: tree_trunk_geo 8
+    100174: tree_trunk_geo 9
+    100176: trees_geo_grp
+    100178: tunnel_geo
+    100180: wall_01_geo
+    100182: wall_02_geo
+    100184: wall_03_geo
+    100186: wall_04_geo
+    100188: wall_05_geo
+    100190: wall_06_geo
+    100192: wall_07_geo
+    100194: wall_08_geo
+    100196: walls_geo
+    100198: walls_geo_grp
+    100200: water_geo
+    400000: box_01_geo
+    400002: box_02_geo
+    400004: box_03_geo
+    400006: box_04_geo
+    400008: box_05_geo
+    400010: box_06_geo
+    400012: box_07_geo
+    400014: boxes_geo_grp
+    400016: crate_01_geo
+    400018: crate_02_geo
+    400020: crate_03_geo
+    400022: crate_04_geo
+    400024: crate_05_geo
+    400026: crate_06_geo
+    400028: crate_07_geo
+    400030: crate_08_geo
+    400032: crate_09_geo
+    400034: crate_10_geo
+    400036: crate_11_geo
+    400038: crate_12_geo
+    400040: crate_13_geo
+    400042: crate_14_geo
+    400044: crate_15_geo
+    400046: crate_16_geo
+    400048: crate_17_geo
+    400050: crate_18_geo
+    400052: crate_19_geo
+    400054: crate_20_geo
+    400056: crates_geo_grp
+    400058: grass_patch_geo
+    400060: ground_geo
+    400062: //RootNode
+    400064: main_level_geo_grp
+    400066: outcrop_geo
+    400068: pile_01_geo
+    400070: pile_02_geo
+    400072: pile_03_geo
+    400074: pile_04_geo
+    400076: pile_05_geo
+    400078: pile_06_geo
+    400080: pile_07_geo
+    400082: pile_08_geo
+    400084: pile_09_geo
+    400086: pile_10_geo
+    400088: piles_geo_grp
+    400090: rocks_01_geo
+    400092: rocks_02_geo
+    400094: rocks_03_geo
+    400096: rocks_04_geo
+    400098: rocks_05_geo
+    400100: rocks_06_geo
+    400102: rocks_geo_grp
+    400104: scaffolding_geo
+    400106: spaceship_geo
+    400108: stair_railing_geo
+    400110: tree_01_geo
+    400112: tree_02_geo
+    400114: tree_03_geo
+    400116: tree_04_geo
+    400118: tree_05_geo
+    400120: tree_06_geo
+    400122: tree_07_geo
+    400124: tree_08_geo
+    400126: tree_09_geo
+    400128: tree_10_geo
+    400130: tree_11_geo
+    400132: tree_top_geo
+    400134: tree_top_geo 1
+    400136: tree_top_geo 10
+    400138: tree_top_geo 2
+    400140: tree_top_geo 3
+    400142: tree_top_geo 4
+    400144: tree_top_geo 5
+    400146: tree_top_geo 6
+    400148: tree_top_geo 7
+    400150: tree_top_geo 8
+    400152: tree_top_geo 9
+    400154: tree_trunk_geo
+    400156: tree_trunk_geo 1
+    400158: tree_trunk_geo 10
+    400160: tree_trunk_geo 2
+    400162: tree_trunk_geo 3
+    400164: tree_trunk_geo 4
+    400166: tree_trunk_geo 5
+    400168: tree_trunk_geo 6
+    400170: tree_trunk_geo 7
+    400172: tree_trunk_geo 8
+    400174: tree_trunk_geo 9
+    400176: trees_geo_grp
+    400178: tunnel_geo
+    400180: wall_01_geo
+    400182: wall_02_geo
+    400184: wall_03_geo
+    400186: wall_04_geo
+    400188: wall_05_geo
+    400190: wall_06_geo
+    400192: wall_07_geo
+    400194: wall_08_geo
+    400196: walls_geo
+    400198: walls_geo_grp
+    400200: water_geo
+    2100000: red_MAT
+    2100002: lambert1
+    2100004: asset_package_01_asset_grp_01_MAT
+    2100006: grey_blue_MAT
+    2100008: wall_MAT
+    2100010: floor_MAT
+    2100012: water_MAT
+    2100014: phong2
+    2300000: box_01_geo
+    2300002: box_02_geo
+    2300004: box_03_geo
+    2300006: box_04_geo
+    2300008: box_05_geo
+    2300010: box_06_geo
+    2300012: box_07_geo
+    2300014: crate_01_geo
+    2300016: crate_02_geo
+    2300018: crate_03_geo
+    2300020: crate_04_geo
+    2300022: crate_05_geo
+    2300024: crate_06_geo
+    2300026: crate_07_geo
+    2300028: crate_08_geo
+    2300030: crate_09_geo
+    2300032: crate_10_geo
+    2300034: crate_11_geo
+    2300036: crate_12_geo
+    2300038: crate_13_geo
+    2300040: crate_14_geo
+    2300042: crate_15_geo
+    2300044: crate_16_geo
+    2300046: crate_17_geo
+    2300048: crate_18_geo
+    2300050: crate_19_geo
+    2300052: crate_20_geo
+    2300054: grass_patch_geo
+    2300056: ground_geo
+    2300058: outcrop_geo
+    2300060: pile_01_geo
+    2300062: pile_02_geo
+    2300064: pile_03_geo
+    2300066: pile_04_geo
+    2300068: pile_05_geo
+    2300070: pile_06_geo
+    2300072: pile_07_geo
+    2300074: pile_08_geo
+    2300076: pile_09_geo
+    2300078: pile_10_geo
+    2300080: rocks_01_geo
+    2300082: rocks_02_geo
+    2300084: rocks_03_geo
+    2300086: rocks_04_geo
+    2300088: rocks_05_geo
+    2300090: rocks_06_geo
+    2300092: scaffolding_geo
+    2300094: spaceship_geo
+    2300096: stair_railing_geo
+    2300098: tree_top_geo
+    2300100: tree_top_geo 1
+    2300102: tree_top_geo 10
+    2300104: tree_top_geo 2
+    2300106: tree_top_geo 3
+    2300108: tree_top_geo 4
+    2300110: tree_top_geo 5
+    2300112: tree_top_geo 6
+    2300114: tree_top_geo 7
+    2300116: tree_top_geo 8
+    2300118: tree_top_geo 9
+    2300120: tree_trunk_geo
+    2300122: tree_trunk_geo 1
+    2300124: tree_trunk_geo 10
+    2300126: tree_trunk_geo 2
+    2300128: tree_trunk_geo 3
+    2300130: tree_trunk_geo 4
+    2300132: tree_trunk_geo 5
+    2300134: tree_trunk_geo 6
+    2300136: tree_trunk_geo 7
+    2300138: tree_trunk_geo 8
+    2300140: tree_trunk_geo 9
+    2300142: tunnel_geo
+    2300144: wall_01_geo
+    2300146: wall_02_geo
+    2300148: wall_03_geo
+    2300150: wall_04_geo
+    2300152: wall_05_geo
+    2300154: wall_06_geo
+    2300156: wall_07_geo
+    2300158: wall_08_geo
+    2300160: walls_geo
+    2300162: water_geo
+    3300000: box_01_geo
+    3300002: box_02_geo
+    3300004: box_03_geo
+    3300006: box_04_geo
+    3300008: box_05_geo
+    3300010: box_06_geo
+    3300012: box_07_geo
+    3300014: crate_01_geo
+    3300016: crate_02_geo
+    3300018: crate_03_geo
+    3300020: crate_04_geo
+    3300022: crate_05_geo
+    3300024: crate_06_geo
+    3300026: crate_07_geo
+    3300028: crate_08_geo
+    3300030: crate_09_geo
+    3300032: crate_10_geo
+    3300034: crate_11_geo
+    3300036: crate_12_geo
+    3300038: crate_13_geo
+    3300040: crate_14_geo
+    3300042: crate_15_geo
+    3300044: crate_16_geo
+    3300046: crate_17_geo
+    3300048: crate_18_geo
+    3300050: crate_19_geo
+    3300052: crate_20_geo
+    3300054: grass_patch_geo
+    3300056: ground_geo
+    3300058: outcrop_geo
+    3300060: pile_01_geo
+    3300062: pile_02_geo
+    3300064: pile_03_geo
+    3300066: pile_04_geo
+    3300068: pile_05_geo
+    3300070: pile_06_geo
+    3300072: pile_07_geo
+    3300074: pile_08_geo
+    3300076: pile_09_geo
+    3300078: pile_10_geo
+    3300080: rocks_01_geo
+    3300082: rocks_02_geo
+    3300084: rocks_03_geo
+    3300086: rocks_04_geo
+    3300088: rocks_05_geo
+    3300090: rocks_06_geo
+    3300092: scaffolding_geo
+    3300094: spaceship_geo
+    3300096: stair_railing_geo
+    3300098: tree_top_geo
+    3300100: tree_top_geo 1
+    3300102: tree_top_geo 10
+    3300104: tree_top_geo 2
+    3300106: tree_top_geo 3
+    3300108: tree_top_geo 4
+    3300110: tree_top_geo 5
+    3300112: tree_top_geo 6
+    3300114: tree_top_geo 7
+    3300116: tree_top_geo 8
+    3300118: tree_top_geo 9
+    3300120: tree_trunk_geo
+    3300122: tree_trunk_geo 1
+    3300124: tree_trunk_geo 10
+    3300126: tree_trunk_geo 2
+    3300128: tree_trunk_geo 3
+    3300130: tree_trunk_geo 4
+    3300132: tree_trunk_geo 5
+    3300134: tree_trunk_geo 6
+    3300136: tree_trunk_geo 7
+    3300138: tree_trunk_geo 8
+    3300140: tree_trunk_geo 9
+    3300142: tunnel_geo
+    3300144: wall_01_geo
+    3300146: wall_02_geo
+    3300148: wall_03_geo
+    3300150: wall_04_geo
+    3300152: wall_05_geo
+    3300154: wall_06_geo
+    3300156: wall_07_geo
+    3300158: wall_08_geo
+    3300160: walls_geo
+    3300162: water_geo
+    4300000: tree_top_geo
+    4300002: tree_trunk_geo
+    4300004: tree_top_geo
+    4300006: tree_trunk_geo
+    4300008: tree_top_geo
+    4300010: tree_trunk_geo
+    4300012: tree_top_geo
+    4300014: tree_trunk_geo
+    4300016: tree_top_geo
+    4300018: tree_trunk_geo
+    4300020: tree_top_geo
+    4300022: tree_trunk_geo
+    4300024: tree_top_geo
+    4300026: tree_trunk_geo
+    4300028: tree_top_geo
+    4300030: tree_trunk_geo
+    4300032: tree_top_geo
+    4300034: tree_trunk_geo
+    4300036: tree_top_geo
+    4300038: tree_trunk_geo
+    4300040: tree_top_geo
+    4300042: tree_trunk_geo
+    4300044: crate_01_geo
+    4300046: crate_02_geo
+    4300048: crate_03_geo
+    4300050: crate_04_geo
+    4300052: crate_05_geo
+    4300054: crate_06_geo
+    4300056: crate_07_geo
+    4300058: crate_08_geo
+    4300060: crate_09_geo
+    4300062: crate_10_geo
+    4300064: crate_11_geo
+    4300066: crate_12_geo
+    4300068: crate_13_geo
+    4300070: crate_14_geo
+    4300072: crate_15_geo
+    4300074: crate_16_geo
+    4300076: crate_17_geo
+    4300078: crate_18_geo
+    4300080: crate_19_geo
+    4300082: crate_20_geo
+    4300084: box_01_geo
+    4300086: box_02_geo
+    4300088: box_03_geo
+    4300090: box_04_geo
+    4300092: box_05_geo
+    4300094: box_06_geo
+    4300096: box_07_geo
+    4300098: wall_01_geo
+    4300100: wall_02_geo
+    4300102: wall_03_geo
+    4300104: wall_04_geo
+    4300106: wall_05_geo
+    4300108: wall_06_geo
+    4300110: wall_07_geo
+    4300112: wall_08_geo
+    4300114: walls_geo
+    4300116: ground_geo
+    4300118: outcrop_geo
+    4300120: water_geo
+    4300122: tunnel_geo
+    4300124: spaceship_geo
+    4300126: grass_patch_geo
+    4300128: stair_railing_geo
+    4300130: rocks_01_geo
+    4300132: rocks_02_geo
+    4300134: rocks_03_geo
+    4300136: rocks_04_geo
+    4300138: rocks_05_geo
+    4300140: rocks_06_geo
+    4300142: pile_01_geo
+    4300144: pile_02_geo
+    4300146: pile_03_geo
+    4300148: pile_04_geo
+    4300150: pile_05_geo
+    4300152: pile_06_geo
+    4300154: pile_07_geo
+    4300156: pile_08_geo
+    4300158: pile_09_geo
+    4300160: pile_10_geo
+    4300162: scaffolding_geo
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
